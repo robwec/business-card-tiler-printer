@@ -1,0 +1,12 @@
+cp "sample.png" in/01.png
+cp "sample.png" in/02.png
+cp "sample.png" in/03.png
+cp "sample.png" in/04.png
+cp "sample.png" in/05.png
+cp "sample.png" in/06.png
+cp "sample.png" in/07.png
+cp "sample.png" in/08.png
+cp "sample.png" in/09.png
+cp "sample.png" in/10.png
+cp "sample.png" in/11.png
+cp "sample.png" in/12.png
